@@ -1,0 +1,8 @@
+name = "Borderless Mining"
+filename = "BiomesOPlenty-1.18.2-16.0.0.134.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/3827/434/BiomesOPlenty-1.18.2-16.0.0.134.jar"
+hash-format = "sha256"
+hash = "1d2a95bc7f32944ac5b8332dfd14b6b4168ff47ed1d72dde64604f27550c4bdb"
