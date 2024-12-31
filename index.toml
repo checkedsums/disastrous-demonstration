@@ -1,10 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
+metafile = true
 
 [[files]]
-file = "mods/bop.pw.toml"
-hash = "742758e1996816cbd3b4b26b6fc5deefc33bc9e9aacd641dd127a0ae0a4241a7"
+file = "mods/jei.pw.toml"
+hash = "55fd552f950b45668e438db0e6c8d5f4c9d3a1413bd2f21cf47d3c9996766886"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
 metafile = true

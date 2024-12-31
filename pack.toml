@@ -1,13 +1,13 @@
-name = "Discrepency Finders"
-author = "myass tore a hole"
-version = "0.0"
+name = "Disastrous Demonstration"
+author = "ass tear a hole"
+version = "0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1e9bb3c6bbcfac91ac7022a7424d16aa8af9c50bc0a67c59026ad7ec24529a4a"
+hash = "49ebff9bfbbcadf5d5aeecaadfd24784efdd6bcc5f36ca1787eef202dc139bee"
 
 [versions]
+forge = "40.2.31"
 minecraft = "1.18.2"
-forge = "40.2.0"
